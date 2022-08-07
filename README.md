@@ -1,3 +1,3 @@
 ¡Hola amigos de código facilito!
 
-Bienvenidos al video sobre ramas de git
+En este curso aprenderás todo lo necesario para trabajar en equipo haciendo uso de git y GitHub
